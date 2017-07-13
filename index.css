@@ -1,0 +1,45 @@
+#canvas{
+    display: block;
+    margin: 0 auto;
+}
+.ctrl{
+	margin-top:20px;
+	display: inline-block;
+    margin: 0 auto;
+}
+.ctrl span{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	margin-right: 5px;
+	cursor: pointer;
+}
+.black{
+	background-color: #000;
+}
+.red{
+	background-color: #f00;
+}
+.green{
+	background-color: #0f0;
+}
+.blue{
+	background-color: #00f;
+}
+.yellow{
+	background-color: yellow;
+}
+.pink{
+	background-color: pink;
+}
+.btn{
+	border: 1px solid #ccc;
+	background-color: #666;
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	cursor: pointer;
+}
+.btn:hover{
+	background-color: #ccc;
+}
